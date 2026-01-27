@@ -1,0 +1,32 @@
+h1{color: blue;}
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f0f0;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                width: 800px;
+                margin: 0 auto;
+                background-color:blue;
+                padding: 20px;
+            }
+            .left{
+                width:48%;
+                float:right;
+            }
+            .right{
+                width:48%;
+                float:right;
+            }
+            article p{
+                color:red
+            }
+            footer{
+                text-align: center;
+                background-color: lightgrey;
+                clear:both;
+                width:100%;
+                padding-top: 20px;
+                ;
+            }
